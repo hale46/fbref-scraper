@@ -1,6 +1,6 @@
 # FBRef Data Scraper
 
-Hello, data enthusiasts! Welcome to the repository of FBRef Data Scraper. This Python-based tool is designed to help you gather data from FBRef using the soccerdata library.
+Hello, football data enthusiasts! Welcome to the repository of FBRef Data Scraper. This Python-based tool is designed to help you gather data from FBRef using the soccerdata library.
 
 ## Features
 
