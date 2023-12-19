@@ -4,10 +4,9 @@ Hello, football data enthusiasts! Welcome to the repository of FBRef Data Scrape
 
 ## Features
 
-- **League-Specific Scrapers**: as the soccerdata library only includes the top-5 leeagues and the female and male World Cups, a vast relation of leagues from Europe, America and Asia has been added.
+- **League-Specific Scrapers to retrieve data from teams and players**: as the soccerdata library only includes the top-5 leeagues and the female and male World Cups, a vast relation of leagues from Europe has been added. If you want to add more leagues from Asia and America, they are already available so you just need to copy one of the cells and customize it.
 - **JSON File for Leagues**: the leagues are added through a json file with the structure soccerdata says in the documentation. The file is included in the repository and must be stored in the 'config' folder that is created when you install the library. The file was created with Python and the notebook I used is also include in this repository, just in case you want to add more leagues.
-- **Data Joining Code**: the Python notebook contains a code snippet at the end that allows you to join all the individual league data frames. This feature makes it easier to handle and analyze the data.
-- **Two Scrapers for Different Seasons**: the repository includes two separate scrapers. One is designed for the 23-24 season, and the other is for the previous seasons. This allows for more precise and season-specific data scraping.
+- **Data Joining Code**: the Python notebook contains a code snippet at the end that allows you to join all teams/players data in single df for each type of data, and another one to create a joint df with all the stats.
 
 ## How to Use
 
